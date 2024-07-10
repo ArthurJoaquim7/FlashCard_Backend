@@ -1,0 +1,6 @@
+@FlashCRUD_HostAddress = http://localhost:5041
+
+GET {{FlashCRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
